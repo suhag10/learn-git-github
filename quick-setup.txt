@@ -1,1 +1,31 @@
-# quick setup
+[Quick setup — if you’ve done this kind of thing before]
+## HTTP SSL — https://github.com/suhag10/git-github.git
+
+[…or create a new repository on the command line]
+echo "# git-github" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/suhag10/git-github.git
+git push -u origin main
+
+[…or push an existing repository from the command line]
+git remote add origin https://github.com/suhag10/git-github.git
+git branch -M main
+git push -u origin main
+
+
+# The default branch has been renamed!
+- main is now named main-v2
+- If you have a local clone, you can update it by running the following commands.
+
+git branch -m main main-v2
+git fetch origin
+git branch -u origin/main-v2 main-v2
+git remote set-head origin -a
+------------------------------------
+git branch -m v2 <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
+git remote set-head origin -a
