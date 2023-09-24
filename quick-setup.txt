@@ -20,12 +20,7 @@ git push -u origin main
 - main is now named main-v2
 - If you have a local clone, you can update it by running the following commands.
 
-git branch -m main main-v2
+git branch -m main <NEW-BRANCH>
 git fetch origin
-git branch -u origin/main-v2 main-v2
-git remote set-head origin -a
-------------------------------------
-git branch -m v2 <BRANCH>
-git fetch origin
-git branch -u origin/<BRANCH> <BRANCH>
+git branch -u origin/<NEW-BRANCH> <NEW-BRANCH>
 git remote set-head origin -a

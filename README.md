@@ -56,17 +56,6 @@
 <!-- | `$ git status`                                | Show the working tree status | -->
 
 <br /><br /><br />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25' style='color: #fff'>](https://github.com/suhag10) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/suhag11/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](https://suhag10.github.io/portfolio/)  (Created on Nov 6, 2022) -- (Updated on Sep 24, 2023)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25' style='color: #fff'>](https://github.com/suhag10) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/suhag11/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](https://suhag10.github.io/portfolio/)  
 
-<style>
-    .markdown-body code {
-        background: #39d353 !important;
-        color: #000000 !important;
-        font-weight: 600 !important;
-    }
-    .markdown-body img {
-        background: #00c537 !important;
-        padding: 4px !important;
-        border-radius: 4px !important;
-    }
-</style>
+<!-- (Created on Nov 6, 2022) -- (Updated on Sep 24, 2023) -->
