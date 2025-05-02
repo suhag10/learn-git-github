@@ -9,7 +9,7 @@
 | `git commit -m "Initial commit"`                             | - |
 | `git branch -M <branch-name>`                                | - |
 | `git remote add origin https://github.com/<user>/<repo>.git` | - |
-| `git push u origin <branch-name>`                            | - |
+| `git push -u origin <branch-name>`                           | - |
 
 ### Working with Local Changes
 | Command                                                      | Description            |
