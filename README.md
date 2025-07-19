@@ -5,7 +5,7 @@
 | Command                                                      | Description            |
 | ------------------------------------------------------------ | ---------------------- |
 | `git init`                                                   | - |
-| `git add filename.md`                                        | For multiple files, use `git add-all` &bull; `--all` &bull; `-A` &bull; `.` |
+| `git add filename.md`                                        | For multiple files, use `git add-all` &bull; <br>`--all` &bull; `-A` &bull; `.` |
 | `git commit -m "Initial commit"`                             | - |
 | `git branch -M <branch-name>`                                | - |
 | `git remote add origin https://github.com/<user>/<repo>.git` | - |
@@ -47,6 +47,7 @@
 | Command                                                      | Description            |
 | ------------------------------------------------------------ | ---------------------- |
 | `git clone https://github.com/<user>/<repo>.git`             | - |
+| `git clone https://<token>@github.com/<username>/<repo>.git` | - |
 
 ### Pulling Changes from Remote
 | Command                                                      | Description            |
@@ -105,17 +106,17 @@ git push -u origin main
 | Command                                                      | Description            |
 | ------------------------------------------------------------ | ---------------------- |
 | `composer init`                                              | - |
-| `git config --global user.name {your-name}`                  | - |
-| `git config --global user.email {your-email}`                | - |
-| `git config --global package.name {your-package-name}`       | - |
-| `git config --global package.type {your-package-type}`       | - |
-| `git config --global license.name {your-package-license}`    | - |
+| `git config --global user.name "yourName"`                   | - |
+| `git config --global user.email "your@email.com"`            | - |
+| `git config --global package.name "package-name"`            | - |
+| `git config --global package.type "package-type"`            | - |
+| `git config --global license.name "package-license"`         | - |
 
 <!--
 # Update List
 
 1. Created on Nov 6, 2022 
 2. Updated on Sep 24, 2023
-2. Updated on May 2, 2025
+3. Updated on May 2, 2025
 
 -->
